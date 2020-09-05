@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Jin and Z. Xu | Academic</title>
+    <link>https://smileyzyw.github.io/author/x.-jin-and-z.-xu/</link>
+      <atom:link href="https://smileyzyw.github.io/author/x.-jin-and-z.-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Jin and Z. Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 17:01:57 +0800</lastBuildDate>
+    <image>
+      <url>https://smileyzyw.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>X. Jin and Z. Xu</title>
+      <link>https://smileyzyw.github.io/author/x.-jin-and-z.-xu/</link>
+    </image>
+    
+    <item>
+      <title>Robust beacon detection for fast-moving VLC systems: A learning method</title>
+      <link>https://smileyzyw.github.io/publication/detection/</link>
+      <pubDate>Fri, 04 Sep 2020 17:01:57 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/publication/detection/</guid>
+      <description>&lt;p&gt;The main difference between our beacon detection task in VLC and other object detection tasks is that 
+our target LEDs are fast-blinking in time domain, i.e., LEDs are modulated with information and the driving
+current is changing with time. We tried to utilize this kind of temporal feature to distinguish beacon LEDs
+from DC interferences and our solution is straight-forward: we first stacked multiple input frames into a RGB
+image that converts the temporal information of LEDs into the spatial information of image. Then, using the advanced CNN object detector, we can 
+detect the beacon candidate region with a very high recall in this stacked RGB map. 
+Finally, given the coarse position information, a demodulator was designed to determine the &amp;lsquo;0/1&amp;rsquo; state of LEDs and once
+beacons are coded with run-length coding, we can detect them robustly within 3 frames. Besides, we also proved that 
+our detection framework can be easily generalized to inputs with more than 3 frames. The journal paper is drafted.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

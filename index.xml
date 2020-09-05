@@ -5,12 +5,94 @@
     <link>https://smileyzyw.github.io/</link>
       <atom:link href="https://smileyzyw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 17:01:57 +0800</lastBuildDate>
     <image>
       <url>https://smileyzyw.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>https://smileyzyw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Robust beacon detection for fast-moving VLC systems: A learning method</title>
+      <link>https://smileyzyw.github.io/publication/detection/</link>
+      <pubDate>Fri, 04 Sep 2020 17:01:57 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/publication/detection/</guid>
+      <description>&lt;p&gt;The main difference between our beacon detection task in VLC and other object detection tasks is that 
+our target LEDs are fast-blinking in time domain, i.e., LEDs are modulated with information and the driving
+current is changing with time. We tried to utilize this kind of temporal feature to distinguish beacon LEDs
+from DC interferences and our solution is straight-forward: we first stacked multiple input frames into a RGB
+image that converts the temporal information of LEDs into the spatial information of image. Then, using the advanced CNN object detector, we can 
+detect the beacon candidate region with a very high recall in this stacked RGB map. 
+Finally, given the coarse position information, a demodulator was designed to determine the &amp;lsquo;0/1&amp;rsquo; state of LEDs and once
+beacons are coded with run-length coding, we can detect them robustly within 3 frames. Besides, we also proved that 
+our detection framework can be easily generalized to inputs with more than 3 frames. The journal paper is drafted.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trajectory Prediction of Target Light Source for Dynamic Visible Light Communication Systems with A Narrow Field of View</title>
+      <link>https://smileyzyw.github.io/publication/jiang/</link>
+      <pubDate>Fri, 04 Sep 2020 11:18:01 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/publication/jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Gain Control Design for Dynamic Visible Light Communication Systems</title>
+      <link>https://smileyzyw.github.io/publication/agc-full-version/</link>
+      <pubDate>Fri, 04 Sep 2020 11:07:44 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/publication/agc-full-version/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive LED tracking systems for visible light communication</title>
+      <link>https://smileyzyw.github.io/project/apt/</link>
+      <pubDate>Thu, 03 Sep 2020 23:07:24 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/project/apt/</guid>
+      <description>&lt;p&gt;This is a rather big and complex project funded by NSF and 4 
+students worked on this project simultaneously. This system is able to complete
+200Mbps transmission and real-time mobile tracking with tracking speed &amp;gt; 18 degrees/s.
+The whole system includes three parts: LED detection and positioning, motor and turntable control and high-speed
+visible light communication. My main focus was on the camera detection side: 
+I implemented a real-time (200fps) detection algorithm (basically, frame subtraction together with morphological denoise) with FPGA and high-speed 
+camera for the prototype and recently I did some research work on how to use modern
+CNN-based detector to detect our LED targets more robustly. Besides, some dirty hardware work is 
+inevitable.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Camera-based indoor visible light positioning</title>
+      <link>https://smileyzyw.github.io/project/positioning/</link>
+      <pubDate>Tue, 01 Sep 2020 17:01:41 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/project/positioning/</guid>
+      <description>&lt;p&gt;This project was the preliminary materials for applying a NSF. Our goal is to implement sub-centimeter-level 3D 
+positioning with large-FOV (40 degree) commercial cameras. In our experiment, we demonstrate that
+after simple camera calibrations, 2D positioning mean error of 11.4696 mm can be easily achieved using 
+triangulation method. To further improve accuracy, smaller pixel pitch CCD and high precision calibration
+methods will be employed, and to be capable of 3D positioning, stereo positioning methods will be considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation of dynamic visible light communication system with automatic gain control</title>
+      <link>https://smileyzyw.github.io/publication/agc/</link>
+      <pubDate>Fri, 17 Jul 2020 19:46:27 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/publication/agc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Comparisons between scalable video coding (SVC) and Non-SVC</title>
+      <link>https://smileyzyw.github.io/project/svc/</link>
+      <pubDate>Wed, 05 Sep 2018 16:27:21 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/project/svc/</guid>
+      <description>&lt;p&gt;This project mainly compared the distortion-rate curves of three types of SVC, i.e., spatial SVC, temporal SVC and SNR SVC, with 
+that of traditional simulcast. A simplied codec based on H.264, which contains motion estimation and compensation, DCT,
+quantization, entropy coding and etc., was implemented using MATLAB.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>

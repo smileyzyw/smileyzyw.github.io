@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Jin | Academic</title>
+    <link>https://smileyzyw.github.io/author/x.-jin/</link>
+      <atom:link href="https://smileyzyw.github.io/author/x.-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Jin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 11:18:01 +0800</lastBuildDate>
+    <image>
+      <url>https://smileyzyw.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>X. Jin</title>
+      <link>https://smileyzyw.github.io/author/x.-jin/</link>
+    </image>
+    
+    <item>
+      <title>Trajectory Prediction of Target Light Source for Dynamic Visible Light Communication Systems with A Narrow Field of View</title>
+      <link>https://smileyzyw.github.io/publication/jiang/</link>
+      <pubDate>Fri, 04 Sep 2020 11:18:01 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/publication/jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Gain Control Design for Dynamic Visible Light Communication Systems</title>
+      <link>https://smileyzyw.github.io/publication/agc-full-version/</link>
+      <pubDate>Fri, 04 Sep 2020 11:07:44 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/publication/agc-full-version/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation of dynamic visible light communication system with automatic gain control</title>
+      <link>https://smileyzyw.github.io/publication/agc/</link>
+      <pubDate>Fri, 17 Jul 2020 19:46:27 +0800</pubDate>
+      <guid>https://smileyzyw.github.io/publication/agc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
