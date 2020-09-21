@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Jin | Academic</title>
-    <link>https://smileyzyw.github.io/author/m.-jin/</link>
-      <atom:link href="https://smileyzyw.github.io/author/m.-jin/index.xml" rel="self" type="application/rss+xml" />
+    <title>M. Jin | Yingwen Zhang</title>
+    <link>/author/m.-jin/</link>
+      <atom:link href="/author/m.-jin/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Jin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 11:18:01 +0800</lastBuildDate>
     <image>
-      <url>https://smileyzyw.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M. Jin</title>
-      <link>https://smileyzyw.github.io/author/m.-jin/</link>
+      <link>/author/m.-jin/</link>
     </image>
     
     <item>
       <title>Trajectory Prediction of Target Light Source for Dynamic Visible Light Communication Systems with A Narrow Field of View</title>
-      <link>https://smileyzyw.github.io/publication/jiang/</link>
+      <link>/publication/jiang/</link>
       <pubDate>Fri, 04 Sep 2020 11:18:01 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/publication/jiang/</guid>
+      <guid>/publication/jiang/</guid>
       <description></description>
     </item>
     

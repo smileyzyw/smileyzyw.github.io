@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Academic</title>
-    <link>https://smileyzyw.github.io/publication-type/3/</link>
-      <atom:link href="https://smileyzyw.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <title>3 | Yingwen Zhang</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 17:01:57 +0800</lastBuildDate>
     <image>
-      <url>https://smileyzyw.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>https://smileyzyw.github.io/publication-type/3/</link>
+      <link>/publication-type/3/</link>
     </image>
     
     <item>
       <title>Robust beacon detection for fast-moving VLC systems: A learning method</title>
-      <link>https://smileyzyw.github.io/publication/detection/</link>
+      <link>/publication/detection/</link>
       <pubDate>Fri, 04 Sep 2020 17:01:57 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/publication/detection/</guid>
+      <guid>/publication/detection/</guid>
       <description>&lt;p&gt;The main difference between our beacon detection task in VLC and other object detection tasks is that 
 our target LEDs are fast-blinking in time domain, i.e., LEDs are modulated with information and the driving
 current is changing with time. We tried to utilize this kind of temporal feature to distinguish beacon LEDs
@@ -31,9 +31,9 @@ our detection framework can be easily generalized to inputs with more than 3 fra
     
     <item>
       <title>Automatic Gain Control Design for Dynamic Visible Light Communication Systems</title>
-      <link>https://smileyzyw.github.io/publication/agc-full-version/</link>
+      <link>/publication/agc-full-version/</link>
       <pubDate>Fri, 04 Sep 2020 11:07:44 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/publication/agc-full-version/</guid>
+      <guid>/publication/agc-full-version/</guid>
       <description></description>
     </item>
     

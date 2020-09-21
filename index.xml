@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://smileyzyw.github.io/</link>
-      <atom:link href="https://smileyzyw.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Yingwen Zhang</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yingwen Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 17:01:57 +0800</lastBuildDate>
     <image>
-      <url>https://smileyzyw.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>https://smileyzyw.github.io/</link>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yingwen Zhang</title>
+      <link>/</link>
     </image>
     
     <item>
       <title>Robust beacon detection for fast-moving VLC systems: A learning method</title>
-      <link>https://smileyzyw.github.io/publication/detection/</link>
+      <link>/publication/detection/</link>
       <pubDate>Fri, 04 Sep 2020 17:01:57 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/publication/detection/</guid>
+      <guid>/publication/detection/</guid>
       <description>&lt;p&gt;The main difference between our beacon detection task in VLC and other object detection tasks is that 
 our target LEDs are fast-blinking in time domain, i.e., LEDs are modulated with information and the driving
 current is changing with time. We tried to utilize this kind of temporal feature to distinguish beacon LEDs
@@ -31,25 +31,25 @@ our detection framework can be easily generalized to inputs with more than 3 fra
     
     <item>
       <title>Trajectory Prediction of Target Light Source for Dynamic Visible Light Communication Systems with A Narrow Field of View</title>
-      <link>https://smileyzyw.github.io/publication/jiang/</link>
+      <link>/publication/jiang/</link>
       <pubDate>Fri, 04 Sep 2020 11:18:01 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/publication/jiang/</guid>
+      <guid>/publication/jiang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Gain Control Design for Dynamic Visible Light Communication Systems</title>
-      <link>https://smileyzyw.github.io/publication/agc-full-version/</link>
+      <link>/publication/agc-full-version/</link>
       <pubDate>Fri, 04 Sep 2020 11:07:44 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/publication/agc-full-version/</guid>
+      <guid>/publication/agc-full-version/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive LED tracking systems for visible light communication</title>
-      <link>https://smileyzyw.github.io/project/apt/</link>
+      <link>/project/apt/</link>
       <pubDate>Thu, 03 Sep 2020 23:07:24 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/project/apt/</guid>
+      <guid>/project/apt/</guid>
       <description>&lt;p&gt;This is a rather big and complex project funded by NSF and 4 
 students worked on this project simultaneously. This system is able to complete
 200Mbps transmission and real-time mobile tracking with tracking speed &amp;gt; 18 degrees/s.
@@ -64,9 +64,9 @@ inevitable.&lt;/p&gt;
     
     <item>
       <title>Camera-based indoor visible light positioning</title>
-      <link>https://smileyzyw.github.io/project/positioning/</link>
+      <link>/project/positioning/</link>
       <pubDate>Tue, 01 Sep 2020 17:01:41 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/project/positioning/</guid>
+      <guid>/project/positioning/</guid>
       <description>&lt;p&gt;This project was the preliminary materials for applying a NSF. Our goal is to implement sub-centimeter-level 3D 
 positioning with large-FOV (40 degree) commercial cameras. In our experiment, we demonstrate that
 after simple camera calibrations, 2D positioning mean error of 11.4696 mm can be easily achieved using 
@@ -77,38 +77,20 @@ methods will be employed, and to be capable of 3D positioning, stereo positionin
     
     <item>
       <title>Experimental investigation of dynamic visible light communication system with automatic gain control</title>
-      <link>https://smileyzyw.github.io/publication/agc/</link>
+      <link>/publication/agc/</link>
       <pubDate>Fri, 17 Jul 2020 19:46:27 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/publication/agc/</guid>
+      <guid>/publication/agc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental Comparisons between scalable video coding (SVC) and Non-SVC</title>
-      <link>https://smileyzyw.github.io/project/svc/</link>
+      <link>/project/svc/</link>
       <pubDate>Wed, 05 Sep 2018 16:27:21 +0800</pubDate>
-      <guid>https://smileyzyw.github.io/project/svc/</guid>
+      <guid>/project/svc/</guid>
       <description>&lt;p&gt;This project mainly compared the distortion-rate curves of three types of SVC, i.e., spatial SVC, temporal SVC and SNR SVC, with 
 that of traditional simulcast. A simplied codec based on H.264, which contains motion estimation and compensation, DCT,
 quantization, entropy coding and etc., was implemented using MATLAB.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://smileyzyw.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://smileyzyw.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://smileyzyw.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://smileyzyw.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
